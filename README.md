@@ -1,9 +1,8 @@
 
 # Hi ! 👋🏻
 
+I'm a platform engineer. I'm working on multi-tennant observability, logging and service mesh.
 
-**GitHub Stats**
+I reserached on serverless computing during my master thesis.
 
-![Mohammad's github stats](https://github-readme-stats.vercel.app/api?username=mohammadVatandoost&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadVatandoost&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)
+I'm living in Netherlands.
